@@ -1,0 +1,4 @@
+numpy~=1.17.4
+Flask~=2.1.2
+pandas~=1.0.5
+elasticsearch~=7.13.4
